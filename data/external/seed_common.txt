@@ -1,0 +1,51 @@
+chest tightness
+industrial pollution
+tailpipe
+respiratory infection
+copd
+soot
+throat irritation
+black carbon
+premature death
+smoggy
+nitrogen dioxide
+rapid heart rate
+code orange
+wheezing
+code red
+air pollution
+particulate matter
+cough
+organic carbon
+snoring
+chest pain
+pediatric asthma
+rapid pulse
+respiratory illness
+haze
+smog
+coughing
+cardiovascular disease
+shortness of breath
+traffic
+wildfires
+childhood asthma
+power plants
+arrhythmia
+rapid breathing
+air pollutant
+headache
+asthma
+inhaler use
+asthma attack
+difficulty breathing
+bronchitis
+ozone
+heart murmur
+chronic obstructive pulmonary disease
+inhaler
+lung cancer
+smoke
+sulfate
+irregular heartbeat
+lung disease
